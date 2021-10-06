@@ -7,7 +7,7 @@
     [![JM-Rishav's GitHub stats](https://github-readme-stats.vercel.app/api?username=JM-Rishav&show_icons=true&theme=algolia)](https://github.com/JM-Rishav/github-readme-stats)
   ---
 
-  * 🔭 I am Currently working as **Data Science Intern** 
+  * 🔭 I am Currently working as **Data Scientist Intern** 
   
   - 🌱 I’m currently Learning Deep Learning😎.
   
