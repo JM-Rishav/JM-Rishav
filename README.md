@@ -21,7 +21,7 @@
 
   ## Achievements :
     
-  5 ⭐ Gold Badge in Python on Hackerrank
+  5 ⭐ Gold Badge in Python on Hackerrank </br>
   5 ⭐ Gold Badge in SQL on Hackerrank
 
   ---
