@@ -31,11 +31,11 @@
   <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
   <img align="left" alt="Tensorflow" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
 
-<br>
-</br>
-## Achievements:
-  
 
+
+  ## Achievements:
+    
+  5 ⭐ Gold Badge in Python on Hackerrank
 
 
 
