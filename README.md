@@ -22,7 +22,7 @@
   ## Achievements :
     
   5 ⭐ Gold Badge in Python on Hackerrank </br>
-  5 ⭐ Gold Badge in SQL on Hackerrank
+  5 ⭐ Gold Badge in SQL on Hackerrank </br>
   Kaggle days championship with Z
       Water, water everywere not a drop to drink 
       rank 39 private leaderboard (solo competitor), rank 68 public
