@@ -11,7 +11,7 @@
   
   - 🌱 I’m currently Learning Deep Learning😎.
   
-  - 🥅 2021 Goals: Explore more on Computer vision, Deep learning, NLP, Time Series Analysis etc.
+  - 🥅 2022 Goals: Explore more on Computer vision, Deep learning, NLP, Time Series Analysis etc.
 
   - ⚡ Fun fact: I love to learn amazing stuffs.
   
